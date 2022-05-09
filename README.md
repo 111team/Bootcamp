@@ -48,13 +48,20 @@ Platform-Puzzle Macera türünde tek kişilik "Journey" ve "Sky Children of The 
 
 ♦♦♦♦♦ **Sprint 1** ♦♦♦♦♦
 
-• *Sprint Notları:* Product Backlog içerisine "Kullanıcı Hikayeleri" yazılmış ve bunlara bağlı olarak "Görevler" belirlenmiştir. Görevler için "Değer, Sprint, Öncelik" gibi atamalar yapılmış ve "Hikaye, Kod, Tasarım, Müzik" alanlarına göre sınıflandırılmıştır.
+• *Sprint Notları:* Product Backlog içerisine "Kullanıcı Hikayeleri" yazılmış ve bunlara bağlı olarak "Görevler" belirlenmiştir. Görevler için "Değer, Sprint, Tahmin, Öncelik" gibi atamalar yapılmış ve "Hikaye, Kod, Tasarım, Müzik" alanlarına göre sınıflandırılmıştır.
 
 • *Sprint Süreci:* Ekip üyelerinin rollerine, zamanlarına ve görevlerin önceliklerine bağlı olarak çalışmalar başlamıştır.
+
+• *Sprint Sürecinde Tamamlanması Planlanan Puan:* 52
+
+• *Puan Tamamlama Mantığı:* İlk sprinte denk gelen tarihin bir kısmı ekip için uygun olmadığından yüksek puan planlaması yapılmamıştır. Projenin tamamlanmış kabul edilebilmesi için yaklaşık 360 puanlık görev yapılması gerekmektedir. Projenin 3 sprint süreceği düşünülecek olursa daha sonra sprint başına yaklaşık 160 puanlık görevin tamamlanması gerekmektedir.
 
 • *Backlog Düzeni:* Proje yönetimi platformunda oluşturulan Kullanıcı Hikayeleri ve Görevlere tıklanması halinde detaylara ulaşmak mümkündür. Eğer varsa alt görevlere de tıklanarak ulaşılabilir. Görevlerdeki ilerlemelere ve yeni fikirlere göre düzenli olarak Product Owner tarafından güncelleme yapılmaktadır.
 
 ![image](https://user-images.githubusercontent.com/99537458/167418527-38dedf1e-2573-4ffb-abfb-12a84e8e6744.png)
+
+![image](https://user-images.githubusercontent.com/99537458/167446716-1a13857d-ba9e-417c-badf-48d264a4a177.png)
+
 
 ♣ **Scrum Meetings / Ekip Toplantıları** ♣
 
