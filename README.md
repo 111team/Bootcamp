@@ -32,6 +32,10 @@ Platform-Puzzle Macera türünde tek kişilik "Journey" ve "Sky Chlindren of The
 
 ♠ Nesneler: ♫ Notalar, ♥ Can İksiri
 
+♦┬ HEDEF KİTLE ┬♦
+
+• 7'den 70'e Platformer/Bulmaca türünde video oyunlardan hoşlanan, epik müzik ve hikaye seven bilgisayar kollanıcıları.
+
 ♦┬ SANAT KONSEPTİ ┬♦
 
 ![image](https://user-images.githubusercontent.com/99537458/167401188-6bf30520-cd49-4e2f-8f4e-9703d35018d5.png)
