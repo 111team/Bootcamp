@@ -12,7 +12,7 @@ Takım İsmi: ♦ ***Unity Team 111*** ♦
 
 ♦┬ **ÜRÜN AÇIKLAMASI** ┬♦
 
-Platform-Puzzle Macera türünde tek kişilik "Journey" ve "Sky Chlindren of The Light" benzeri bir 3 boyutlu PC oyunu.
+Platform-Puzzle Macera türünde tek kişilik "Journey" ve "Sky Children of The Light" benzeri bir 3 boyutlu PC oyunu.
 
 ![image](https://user-images.githubusercontent.com/99537458/167398520-477c93ca-6dac-4fd8-88dc-4586b68daeba.png) ![image](https://user-images.githubusercontent.com/99537458/167398393-679c74dd-0f31-44b7-a7fa-103d460e4cb9.png)
 
