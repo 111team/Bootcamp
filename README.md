@@ -4,7 +4,7 @@ Takım İsmi: ♦ ***Unity Team 111*** ♦
 
 • Product Owner / Scrum Master ► *Uğurkan Argalı*
 
-• Developer / Artist ► *Fuar Karaca, İrem Sever, Bilge Şenavcu*
+• Developer / Artist ► *Fuat Karaca, İrem Sever, Bilge Şenavcu*
 
 --
 
@@ -22,9 +22,9 @@ Platform-Puzzle Macera türünde tek kişilik "Journey" ve "Sky Children of The 
 
 • *Müzik ve Seslendirme:* Oyun için özel olarak üretilmiş müzikler kullanılacak ve hikayeye yönelik seslendirme çalışmaları yapılacak.
 
-• *Oynanış:* Üç ayrı bölgeden oluşan ve karanlığa gömülmüş diyar notaların toplanması ile renklendirilecek.
+• *Oynanış:* Üç ayrı bölgeden oluşan ve karanlığa gömülmüş diyar, notaların toplanması ile renklendirilecektir.
 
-• *Mekanikler:* Karakterimiz temel hareketlerine ek olarak engelleri aşıp bulmacaları çözebilmesi için "Çift Zıplama", "Atılma", "Telekinezi" gibi becerilere sahip olacak.
+• *Mekanikler:* Karakterimiz temel hareketlerine ek olarak engelleri aşıp bulmacaları çözebilmesi için "Çift Zıplama", "Atılma", "Telekinezi" gibi becerilere sahip olacaktır.
 
 ♠ *Karakterler:* ☻ Ana Karakter
 
@@ -34,7 +34,7 @@ Platform-Puzzle Macera türünde tek kişilik "Journey" ve "Sky Children of The 
 
 ♦┬ **HEDEF KİTLE** ┬♦
 
-• 7'den 70'e Platformer/Bulmaca türünde video oyunlardan hoşlanan, epik müzik ve hikaye seven bilgisayar kollanıcıları.
+• 7'den 70'e Platformer/Bulmaca türünde video oyunlarından hoşlanan, epik müzik ve hikaye seven bilgisayar kullanıcıları.
 
 ♦┬ **SANAT KONSEPTİ** ┬♦
 
@@ -74,3 +74,9 @@ Platform-Puzzle Macera türünde tek kişilik "Journey" ve "Sky Children of The 
 • İlk müzik dosyası GitHub'a eklenmiştir.
 
 ![image](https://user-images.githubusercontent.com/99537458/167417755-c788b741-c8be-4711-bc5c-9959654811f1.png)
+
+• *Sprint Review:* Kapsam üzerine son değerlendirmeler yapılmış ve bazı özelliklerin ertelenmesine veya iptaline karar verilmiştir. Müzikler üzerine fikirler netleştirilmiş ve son düzenlemeleri yapılmak üzere ilk parça hazırlanmıştır. Kullanılacak assetler belirlenmiş ve ilk karakter kodları yazılmıştır. Üye kaybı, bayram ve yoğunluğa rağmen süreç iyi bir şekilde ilerlemktedir. **Katılımcılar:** *Bilge Şenavcu, Fuat Karaca, Uğurkan Argalı, İrem Sever*
+
+• *Sprint Retrospective:* UI ve modelleme konusunda araştırma yapılacak. Oyunun temasına uymayan içerik üretimi sebebiyle zaman kaybı yaşanmaması için çalışmalar yapılacak.
+
+♦♦♦♦♦ **Sprint 2** ♦♦♦♦♦
