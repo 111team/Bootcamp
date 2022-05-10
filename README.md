@@ -87,6 +87,9 @@ Platform-Puzzle Macera türünde tek kişilik "Journey" ve "Sky Children of The 
 
 ![image](https://user-images.githubusercontent.com/99537458/167417755-c788b741-c8be-4711-bc5c-9959654811f1.png)
 
+![Müzik 1 SS](https://user-images.githubusercontent.com/99537458/167672837-f8fa985e-c367-4c82-b6cd-32d415351c9f.png)
+
+
 • *Sprint Review:* Kapsam üzerine son değerlendirmeler yapılmış ve bazı özelliklerin ertelenmesine veya iptaline karar verilmiştir. Müzikler üzerine fikirler netleştirilmiş ve son düzenlemeleri yapılmak üzere ilk parça hazırlanmıştır. Kullanılacak assetler belirlenmiş ve ilk karakter kodları yazılmıştır. Üye kaybı, bayram ve yoğunluğa rağmen süreç iyi bir şekilde ilerlemktedir. **Katılımcılar:** *Bilge Şenavcu, Fuat Karaca, Uğurkan Argalı, İrem Sever*
 
 • *Sprint Retrospective:* UI ve modelleme konusunda araştırma yapılacak. Oyunun temasına uymayan içerik üretimi sebebiyle zaman kaybı yaşanmaması için çalışmalar yapılacak.
