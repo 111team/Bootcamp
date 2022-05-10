@@ -72,6 +72,11 @@ Platform-Puzzle Macera türünde tek kişilik "Journey" ve "Sky Children of The 
 ![image](https://user-images.githubusercontent.com/99537458/167416333-ba6141c4-1602-4c65-9c1a-9730884499ec.png) ![image](https://user-images.githubusercontent.com/99537458/167416377-28123325-f8e7-43fd-adee-ce3395cc2fb1.png) ![image](https://user-images.githubusercontent.com/99537458/167416593-d51b085b-0d7b-44ca-9cc9-8abb34977a46.png) 
 
 ![image](https://user-images.githubusercontent.com/99537458/167415572-a5f590fe-bf0f-4f7f-b96b-1bd50f52f532.png)
+
+![image](https://user-images.githubusercontent.com/99537458/167669514-5e9b8711-287d-4380-bbc7-a5c04c32eca1.png)
+
+![image](https://user-images.githubusercontent.com/99537458/167669449-ebd49712-51c7-4f3d-919b-b27ba02f18ca.png)
+
 ![image](https://user-images.githubusercontent.com/99537458/167415473-09f539d8-1e22-4c17-b2d3-399528fd83c3.png)
 
 ♦♦ **Oyun Durumu** ♦♦
