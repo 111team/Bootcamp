@@ -108,3 +108,20 @@ https://miro.com/app/board/uXjVOy3NSWw=/?share_link_id=224056779138
 
 ![image](https://user-images.githubusercontent.com/99537458/169864304-2fb1317d-ec11-47dc-9df7-82212c2d5931.png)
 
+♣ Scrum Meetings / Ekip Toplantıları ♣
+
+![image](https://user-images.githubusercontent.com/99537458/169868330-a0b8af11-7588-4bc5-ad7c-0e9ea825c32e.png)
+![image](https://user-images.githubusercontent.com/99537458/169868783-2f92fdcc-3008-4f1b-a5a6-4ff918a46c18.png)
+![image](https://user-images.githubusercontent.com/99537458/169868459-6a35aaa6-5e8a-45cb-b570-6fec698560fd.png)
+![image](https://user-images.githubusercontent.com/99537458/169869618-b9e71d4d-fd5f-4c43-87b6-391eb43585bb.png)
+
+♦♦ Oyun Durumu ♦♦
+
+• Müzikler, kodlama, UI/UX ve platformlar üzerine çalışmalar devam ediyor.
+
+• Yeni müzik de github dosyalarına eklendi. Menü müziği güncellendi.
+
+• Sıradaki sprint görevlerinin ardından zaman kalırsa eklenmesi planlanan özellikler var.
+
+![PU111 Char Spr2](https://user-images.githubusercontent.com/99537458/169870895-1bf22ee6-7e58-4685-9fae-0e503fe600d0.jpeg)
+![image](https://user-images.githubusercontent.com/99537458/169871397-706b618d-63a1-411b-a286-ede3af9eefb2.png)
