@@ -44,7 +44,7 @@ Platform-Puzzle Macera türünde tek kişilik "Journey" ve "Sky Children of The 
 
 ♦♦╩╦ **PRODUCT BACKLOG** ╦╩♦♦
 
-![image](https://user-images.githubusercontent.com/99537458/167408679-eb181d56-d012-4a30-a4f8-71ab74f6e303.png)
+https://miro.com/app/board/uXjVOy3NSWw=/?share_link_id=224056779138
 
 ♦♦♦♦♦ **Sprint 1** ♦♦♦♦♦
 
@@ -95,3 +95,16 @@ Platform-Puzzle Macera türünde tek kişilik "Journey" ve "Sky Children of The 
 • *Sprint Retrospective:* UI ve modelleme konusunda araştırma yapılacak. Oyunun temasına uymayan içerik üretimi sebebiyle zaman kaybı yaşanmaması için çalışmalar yapılacak.
 
 ♦♦♦♦♦ **Sprint 2** ♦♦♦♦♦
+
+• *Sprint Notları:* Proje yönetimi için kullanılan uygulama değiştirildi. Backlog ve tahminler revize edilerek GitHub'da link paylaşılarak güncellendi. Ortak çalışma alanı belirlendi. Oynanış, optimizasyon, müzik ve arayüz geliştirmeleri yapıldı.
+
+• *Sprint Süreci:* Ekip üyeleri sürekli olarak birbirleriyle etkileşimde bulunarak hem durum bilgilendirmesi yaptı hem de birbirlerine destek oldu. Görevler planlandığı şekilde tamamlandı, üstelik tamamlanmış görevler üzerinde de geliştirmeler yapıldı.
+
+• *Backlog ve Sprint Puanlaması Hakkında:* ASANA programını kullanmayı bırakmak durumunda kaldığımızdan dolayı Miro üzerinden yeni backlog düzenlemesi yapıldı. Kullanıcı Hikayeleri ve Görevler yeniden düzenlendi, kabul kriterleri eklendi. -Miro üzerinde yakınlaşarak detaylara ulaşılabilir.- Backlogdaki görev tanımlarının değiştirilmesinden dolayı ilk sprintteki veriler de göz önüne alınarak puanlama revize edildi. Bu durumda ertelenerek veya reddedilerek backlog'a alınmaya görevler hariç toplam 220 puanlık görev olduğu belirlendi. İlk sprintte ise 76 puanlık görev tamamlanmış olarak kabul edildi. Geriye 144 puanlık görev kalmış oldu.
+
+• *Sprint Sürecinde Tamamlanması Planlanan Puan:* 55
+
+• *Puan Tamamlama Mantığı:* İlk sprintte kıyasla sınav ve iş gibi sebeplerden dolayı verimin azalacağı hesaba katılarak bu sprint için daha az puanlık görev alınmasına karar verilmiştir. Bu sprintin sonunda toplam 131 puanlık görev tamamlanmış olacak ve geriye 89 puanlık görev kalmış olacak. Son sprintte verim artacağı için daha fazla puan verilebileceği kararlaştırılmıştır.
+
+![image](https://user-images.githubusercontent.com/99537458/169864304-2fb1317d-ec11-47dc-9df7-82212c2d5931.png)
+
