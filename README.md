@@ -125,3 +125,10 @@ https://miro.com/app/board/uXjVOy3NSWw=/?share_link_id=224056779138
 
 ![PU111 Char Spr2](https://user-images.githubusercontent.com/99537458/169870895-1bf22ee6-7e58-4685-9fae-0e503fe600d0.jpeg)
 ![image](https://user-images.githubusercontent.com/99537458/169871397-706b618d-63a1-411b-a286-ede3af9eefb2.png)
+![image](https://user-images.githubusercontent.com/99537458/169873598-d12c802d-bb39-4147-9271-17d538cfc37d.png)
+
+• *Sprint Review:* Asana yerine Miro'ya geçilerek proje takibi ve görevler netleştirildi. Oyun müziklerinden biri daha tamamlandı. (Oyun içerisindeki test sonucuna göre tekrar düzenlenebilir.) Optimizasyon ve oynanış ayarları yapıldı. Ortak çalışma alanı olarak PlasticSCM'in kullanılması kararlaştırıldı ve ayarlamalar yapıldı. UI tasarımı için araştırmalar ve paylaşımlar yapıldı, örnekler incelendi. Süreç iyi ilerliyor ve sona yaklaşıldı. **Katılımcılar:** Bilge Şenavcu, Fuat Karaca, Uğurkan Argalı, İrem Sever
+
+• *Sprint Retrospective:* Önümüzdeki süreçte ekibin birbirinden ve projenin durumundan daha sık haberdar olması sağlanacak. "Bugün ne yaptım" temalı günlük bildirimlerle ekibe itici güç uygulanmış olacak.
+
+♦♦♦♦♦ Sprint 3 ♦♦♦♦♦
