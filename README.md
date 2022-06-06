@@ -8,7 +8,7 @@ Takım İsmi: ♦ ***Unity Team 111*** ♦
 
 --
 
-Ürün İsmi: ♦ ***Project: Bootcamp 111*** ♦
+Ürün İsmi: ♦ ***ASTREA*** ♦
 
 ♦┬ **ÜRÜN AÇIKLAMASI** ┬♦
 
@@ -18,19 +18,19 @@ Platform-Puzzle Macera türünde tek kişilik "Journey" ve "Sky Children of The 
 
 ♦┬ **OYUN ÖZELLİKLERİ** ┬♦
 
-• *Hikaye:* Karanlık güçler tarafından ele geçirilen diyarın eski haline gelebilmesi için tek çare, diyardaki 7 notanın kutsal ağaç üzerinde birleştirilmesidir.
+• *Hikaye:* Karanlık güçler tarafından ele geçirilen diyarın eski haline gelebilmesi için tek çare, ASTREA.
 
 • *Müzik ve Seslendirme:* Oyun için özel olarak üretilmiş müzikler kullanılacak ve hikayeye yönelik seslendirme çalışmaları yapılacak.
 
-• *Oynanış:* Üç ayrı bölgeden oluşan ve karanlığa gömülmüş diyar, notaların toplanması ile renklendirilecektir.
+• *Oynanış:* Üç ayrı bölgeden oluşan diyar, objelerin toplanması sayesinde kurtarılacaktır.
 
-• *Mekanikler:* Karakterimiz temel hareketlerine ek olarak engelleri aşıp bulmacaları çözebilmesi için "Çift Zıplama", "Atılma", "Telekinezi" gibi becerilere sahip olacaktır.
+• *Mekanikler:* Karakterimiz temel hareketlerine ek olarak engelleri aşıp bulmacaları çözebilmesi için "Çift Zıplama", "Atılma" gibi becerilere sahip olacaktır.
 
 ♠ *Karakterler:* ☻ Ana Karakter
 
 ♠ *Seviyeler / Bölgeler:* ◘ Bölge 1, ◘ Bölge 2, ◘ Bölge 3
 
-♠ *Nesneler:* ♫ Notalar, ♥ Can İksiri
+♠ *Nesneler:* ♫ Objeler, ♥ Can İksiri
 
 ♦┬ **HEDEF KİTLE** ┬♦
 
