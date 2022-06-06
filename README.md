@@ -2,9 +2,9 @@
 
 Takım İsmi: ♦ ***Unity Team 111*** ♦
 
-• Product Owner / Scrum Master ► *Uğurkan Argalı*
+• Product Owner / Scrum Master / Music Producer ► *Uğurkan Argalı*
 
-• Developer / Artist ► *Fuat Karaca, İrem Sever, Bilge Şenavcu*
+• Developer / Artist / UI-UX ► *Fuat Karaca, İrem Sever, Bilge Şenavcu*
 
 --
 
@@ -151,3 +151,18 @@ https://miro.com/app/board/uXjVOy3NSWw=/?share_link_id=224056779138
 ![image](https://user-images.githubusercontent.com/99537458/172077285-485d5508-b1df-46a9-83cb-1482e81c4344.png)
 ![image](https://user-images.githubusercontent.com/99537458/172077341-17b06e49-6eae-4bf0-bb11-f9dfe4329bb4.png)
 ![image](https://user-images.githubusercontent.com/99537458/172077460-5aceedf9-ae20-4ebf-bbb7-36376f98f307.png)
+
+♦♦ Oyun Durumu ♦♦
+
+Sprint sürecinde oyun tamamlandı ancak "daha fazla zaman olsaydı şunu da yapardık" dediğimiz içerikler fazlasıyla mevcut.
+
+Gelişim sürecinden görseller aşağıdadır:
+
+![İrem Menu UI](https://user-images.githubusercontent.com/99537458/172077964-6edd5a6f-df62-4207-89d1-2e225d14cd49.jpeg)
+![Bilge Level Design](https://user-images.githubusercontent.com/99537458/172077968-c3200b01-5eaf-4700-bb63-03b541e7dc8d.jpeg)
+![Müzik 3 SS](https://user-images.githubusercontent.com/99537458/172078054-14f0c7ba-3439-4729-bc99-c636606af3a3.png)
+
+
+• *Sprint Review:* Miro kullanımı oldukça rahattı. "Bugün ne yaptım" güncellemeleri ile ekip birbirinden daha sık haberdar oldu ve süreç daha aktif ilerledi. İletişim araçları daha sık kullanıldı ve sürekli durum değerlendirmesi yapıldı. Fikir paylaşımları ve geri bildirimler son derece şeffaf ve aynı zamanda motive ediciydi.
+
+• *Sprint Retrospective:* İleri tarihli projelerde içeriğin test edilmesi ve daha iyi opsiyonların değerlendirilmesi için takvim sonuna ek süre ayrılmalı. Üretim aşamasının daha net gözlenmesi için düzenli paylaşımlar yapılması faydalı olacaktır.
