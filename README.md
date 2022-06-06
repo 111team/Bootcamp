@@ -132,3 +132,16 @@ https://miro.com/app/board/uXjVOy3NSWw=/?share_link_id=224056779138
 • *Sprint Retrospective:* Önümüzdeki süreçte ekibin birbirinden ve projenin durumundan daha sık haberdar olması sağlanacak. "Bugün ne yaptım" temalı günlük bildirimlerle ekibe itici güç uygulanmış olacak.
 
 ♦♦♦♦♦ Sprint 3 ♦♦♦♦♦
+
+• *Sprint Notları:* Bazı görevlerden önce diğerleri önceliklendirildi ve sürekli durum güncellemeleri yaparak süreç takip edildi.
+
+• *Sprint Süreci:* Her gün düzenli olarak PlasticSCM'de güncellemeler yapıldı. Kullanıcı Arayüzü tasarımları ve müzikler tasarlandıkça Watsapp üzerinden paylaşıldı. Geri bildirimler alındı ve sürekli geliştirmeler yapıldı. Ekip tarafından mümkün olduğunca her gün "Bugün ne yaptım" temalı kısa notlar paylaşıldı. 
+
+• *Sprint Sürecinde Tamamlanması Planlanan Puan:* 89
+
+• *Puan Tamamlama Mantığı:* Tüm ekibin maksimum verimle çalışabileceği öngörüldüğünden dolayı en yüksek puan bu sprintte hedeflenmiştir. Zaman kalması halinde yapılması planlanan ek görevler de bulunmaktadır. Var olan görevlerin tamamlanmasıyla Backlog puanları tamamlanmış ve proje teslim edilmeye hazır olacaktır.
+
+![Sprint 3 0](https://user-images.githubusercontent.com/99537458/172076915-e4da5a9d-7771-4f7d-a155-3ab8d37e3aea.png)
+![Sprint 3 1](https://user-images.githubusercontent.com/99537458/172076922-7a7151be-2b57-4b24-bd3c-9856810fab0f.png)
+![Sprint 3 2](https://user-images.githubusercontent.com/99537458/172076933-8301d566-dacd-494f-ac7b-e6e4b79be2ac.png)
+![Sprint 3 3](https://user-images.githubusercontent.com/99537458/172076947-4a95b324-d37b-469e-9687-2f10358cd1ff.png)
