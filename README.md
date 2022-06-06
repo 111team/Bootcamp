@@ -30,7 +30,17 @@ Platform-Puzzle Macera türünde tek kişilik "Journey" ve "Sky Children of The 
 
 ♠ *Seviyeler / Bölgeler:* ◘ Bölge 1, ◘ Bölge 2, ◘ Bölge 3
 
-♠ *Nesneler:* ♫ Objeler, ♥ Can İksiri
+♠ *Nesneler:* ♫ Anahtarlar, ◘ Kapı Tetikleri
+
+♠ *Referanslar:* 
+
+• URP Sis - https://github.com/samoliverdev/UnityURPAtmosphericFog
+
+• Karakter - https://www.cgtrader.com/free-3d-models/character/woman/chibi-2b-59ed31d4-3c90-420e-a41c-396307bce737
+
+• Kumaş Fiziği - https://www.youtube.com/watch?v=5o16vRVP9GE&t=384s&ab_channel=Tibu
+
+• Çevre - https://assetstore.unity.com/packages/templates/tutorials/3d-game-kit-115747#description
 
 ♦┬ **HEDEF KİTLE** ┬♦
 
