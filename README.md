@@ -145,3 +145,9 @@ https://miro.com/app/board/uXjVOy3NSWw=/?share_link_id=224056779138
 ![Sprint 3 1](https://user-images.githubusercontent.com/99537458/172076922-7a7151be-2b57-4b24-bd3c-9856810fab0f.png)
 ![Sprint 3 2](https://user-images.githubusercontent.com/99537458/172076933-8301d566-dacd-494f-ac7b-e6e4b79be2ac.png)
 ![Sprint 3 3](https://user-images.githubusercontent.com/99537458/172076947-4a95b324-d37b-469e-9687-2f10358cd1ff.png)
+
+♣ Scrum Meetings / Ekip Toplantıları ♣
+
+![image](https://user-images.githubusercontent.com/99537458/172077285-485d5508-b1df-46a9-83cb-1482e81c4344.png)
+![image](https://user-images.githubusercontent.com/99537458/172077341-17b06e49-6eae-4bf0-bb11-f9dfe4329bb4.png)
+![image](https://user-images.githubusercontent.com/99537458/172077460-5aceedf9-ae20-4ebf-bbb7-36376f98f307.png)
